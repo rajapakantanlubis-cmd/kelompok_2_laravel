@@ -1,0 +1,2 @@
+# kelompok_2_laravel
+kelompok 2 RAJA PAKANTAN LBS, FAUZAN NASHIMI, EDI ANGKAT, ARYA FAHRESI
